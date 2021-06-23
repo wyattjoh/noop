@@ -1,3 +1,3 @@
 # noop
 
-This is the README.md for `@wyattjoh/noop@1.0.0`.
+This is the README.md for `@wyattjoh/noop@1.1.0`.
